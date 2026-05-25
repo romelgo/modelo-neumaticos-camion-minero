@@ -1,4 +1,4 @@
-# 📊 Análisis de la Carpeta de Modelos (Innova Face)
+# 📊 Análisis de Machine Learning e IoT para la Gestión Predictiva de Neumáticos en Flotas CAT 797F
 
 Este directorio (`/modelos`) contiene los notebooks experimentales y de entrenamiento para los cuatro modelos principales del proyecto, así como sus artefactos asociados (pesos entrenados, gráficas de evaluación, métricas).
 
